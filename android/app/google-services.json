@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "184892301401",
+    "project_id": "drivelinkapp-a5782",
+    "storage_bucket": "drivelinkapp-a5782.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184892301401:android:f4246e0716ac7e331a5148",
+        "android_client_info": {
+          "package_name": "com.demo.drive_upload_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184892301401-o1ej0ua3nvlvf9j24ff14cqdffqfh2sr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demo.drive_upload_app",
+            "certificate_hash": "1863b0a6e4d11b935cf97ad856e7a466c04c0229"
+          }
+        },
+        {
+          "client_id": "184892301401-mhapggm7bhqghrvkkf6bfu5vvhoemu3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV7f5qQyVbX6C6zwKLftBUOngpyzVfeHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184892301401-mhapggm7bhqghrvkkf6bfu5vvhoemu3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
