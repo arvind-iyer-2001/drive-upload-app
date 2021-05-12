@@ -39,7 +39,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 ElevatedButton.icon(
                   onPressed: () async {
                     String pickedImagePath =
-                        await ImageSelector().clickImageAndGetImagePath();
+                        await ImageSelector().clickkImageAndGetImagePath();
                     setState(() {
                       newImagePath = pickedImagePath;
                     });
@@ -50,7 +50,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 ElevatedButton.icon(
                   onPressed: () async {
                     String pickedImagePath =
-                        await ImageSelector().pickImageAndGetImagePath();
+                        await ImageSelector().pickkImageAndGetImagePath();
                     setState(() {
                       newImagePath = pickedImagePath;
                     });
